@@ -1,0 +1,1 @@
+int main(int z,char*v[]){for(int i=1;i<z;i++){int a[8]={0},p=0;for(int j=0,c=0;v[i][j]!='\0';j++)v[i][j]!=' '?a[c]*=10,a[c]+=v[i][j]-48:c++;for(int x=a[4];x<a[4]+a[6];x++)for(int y=a[5];y<a[5]+a[7];y++)a[0]<=x&&a[0]+a[2]>x&&a[1]<=y&&a[1]+a[3]>y?p++:0;printf("%i\n",p);}}
