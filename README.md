@@ -8,6 +8,7 @@ My Profile
 https://code.golf/golfers/Sephirem98
 
 Links for each "hole"
+
 99 Bottles of Beer:
 https://code.golf/99-bottles-of-beer#c
 
