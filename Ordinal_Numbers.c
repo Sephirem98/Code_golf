@@ -1,0 +1,1 @@
+int main(int c,char*a[]){for(int i=1;i<c;i++)printf(a[i][strlen(a[i])-2]=='1'?"%sth\n":a[i][strlen(a[i])-1]=='1'?"%sst\n":a[i][strlen(a[i])-1]=='2'?"%snd\n":a[i][strlen(a[i])-1]=='3'?"%srd\n":"%sth\n",a[i]);}
