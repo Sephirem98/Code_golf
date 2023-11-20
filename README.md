@@ -74,3 +74,6 @@ https://code.golf/prime-numbers-long#c
 
 12 Days of Christmas:
 https://code.golf/12-days-of-christmas#c
+
+Ordinal Numbers:
+https://code.golf/ordinal-numbers#c
